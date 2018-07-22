@@ -6,11 +6,12 @@ This logo is to symbolize the fact that *Erlang and Elixir are getting along wel
 
 ![](https://github.com/jj1bdx/erlang-elixir-color-logo/blob/master/erlang-elixir-color-logo-481x483.png)
 
-## Tools to design
+## Tools used for the design
 
 * Omnigraffle
 * Font: Monaco
 * Two colors for Erlang and Elixir
+* International Morse Code
 
 ## Designer
 
