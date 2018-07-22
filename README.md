@@ -1,6 +1,6 @@
 # Erlang and Elixir Color Logo
 
-Designed by Kenji Rikitake
+This logo is to symbolize the fact that *Erlang and Elixir are getting along well with each other*.
 
 ## Logo design
 
@@ -12,7 +12,16 @@ Designed by Kenji Rikitake
 * Font: Monaco
 * Two colors for Erlang and Elixir
 
+## Author/Designer
+
+Kenji Rikitake
+
+## Date of creation
+
+* Version 1.0: 22-JUL-2018
+
 ## LICENSE
 
 [CC BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Contact the designer for other license and usage requests.
