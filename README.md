@@ -12,7 +12,7 @@ This logo is to symbolize the fact that *Erlang and Elixir are getting along wel
 * Font: Monaco
 * Two colors for Erlang and Elixir
 
-## Author/Designer
+## Designer
 
 Kenji Rikitake
 
